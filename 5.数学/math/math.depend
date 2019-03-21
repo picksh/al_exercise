@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1489751415 source:e:\代码\3.17一周练（数学）\a.cpp
+	<cstdio>
+	<iostream>
+	<cstdlib>
+	<algorithm>
+	<cstring>
+	<string>
+	<vector>
+	<queue>
+	<cmath>
+
+1489813895 source:e:\代码\3.17一周练（数学）\b.cpp
+	<cstdio>
+	<iostream>
+	<cstdlib>
+	<algorithm>
+	<cstring>
+	<string>
+	<vector>
+	<queue>
+	<string>
+	<cmath>
+
